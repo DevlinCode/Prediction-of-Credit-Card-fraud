@@ -23,7 +23,7 @@ This project aims to detect credit card fraud using machine learning models. It 
 ## Prerequisites
 * Python (>=3.6)
 * Jupyter Notebook
-* Libraries listed in requirements.txt
+* Libraries listed in `requirements.txt`
 
 <a id='2.2'></a>
 ## Installation
