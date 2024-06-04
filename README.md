@@ -28,7 +28,7 @@ This project aims to detect credit card fraud using machine learning models. It 
 <a id='2.2'></a>
 ## Installation
   1. Clone the repo
-      git clone https://github.com
+      git clone https://github.com/DevlinCode/Prediction-of-Credit-Card-fraud.git
      
 <a id='3'></a>     
 ## Usage
