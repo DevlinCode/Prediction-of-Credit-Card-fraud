@@ -32,7 +32,7 @@ This project aims to detect credit card fraud using machine learning models. It 
      
 <a id='3'></a>     
 ## Usage
-Open the Jupyter Notebook credit_card_fraud_detection.ipynb. Follow the step-by-step instructions to preprocess data, train models, and evaluate performance.
+Open the Jupyter Notebook Prediction of Credit Card fraud.ipynb. Follow the step-by-step instructions to preprocess data, train models, and evaluate performance.
 
 <a id='4'></a>
 ## Contributing
